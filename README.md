@@ -1,5 +1,11 @@
 # AI-Based Smart Water Tank Monitoring System
 
+| Video | Link |
+|-------|------|
+| 📄 Report Presentation | [Watch Here]([(https://youtu.be/abcd1234)](https://drive.google.com/file/d/1EJrwteWdLcE918ebDvG3Vs0DzXdxcf9x/view?usp=sharing) |
+| 📄 Simulation Presentation | [Watch Here]([https://youtu.be/xyz5678](https://drive.google.com/file/d/1apg0Uq2K3bFDPtqvAx1MVYhyfNQemJvM/view?usp=sharing)) |
+
+
 A lightweight simulation of a **model-based reflex agent** that monitors and
 controls an overhead water tank. The project includes a **Java terminal simulation**
 and a **browser-based UI** (HTML + JS) that mirror the same agent logic.
